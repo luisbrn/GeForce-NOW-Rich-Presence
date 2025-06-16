@@ -16,10 +16,6 @@ This is a very common occurrence for small, custom-built applications, especiall
     * **System Tray & Startup Integration:** The main application (`Discord GFN.exe`) runs in the system tray and offers an option to start with Windows. These are legitimate features but can be flagged if an antivirus's heuristics are very aggressive.
 4.  **Generic Flags:** The alerts you see (e.g., `Malware-gen`, `Wacapew`, `Sabsik`) are often generic detections, meaning the antivirus doesn't recognize a specific known virus but rather a pattern that *might* indicate malware.
 
-### What Does This Mean for You?
-
-Since this project is open-source, you can inspect the Python source code (`main.py`, `image_downloader.py`, `config_editor.py`) to verify that there is no malicious intent. The application is designed solely to enhance your Discord experience with GeForce NOW.
-
 ### How to Allow the Application (Whitelist)
 
 If your antivirus blocks the application or deletes its files, you will need to add an exception (whitelist) for the application's folder or specific executables. Here are instructions for **Windows Defender**, the most common built-in antivirus on Windows. Other antivirus programs will have similar steps.
