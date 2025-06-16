@@ -58,8 +58,9 @@ This application updates your Discord status with the game you're currently play
 
 ### Troubleshooting / Antivirus Alerts
 
-If your antivirus software flags the application files (`Discord GFN.exe`, `Image Downloader.exe`, `Settings.exe`) as malicious, please read our detailed explanation and instructions on how to whitelist the application here: [ANTIVIRUS_ALERTS.md](https://github.com/user-attachments/files/20765330/ANTIVIRUS_ALERTS.md)
-. These are likely false positives due to how the application is packaged and operates.
+### Troubleshooting / Antivirus Alerts
+
+If your antivirus software flags the application files (`Discord GFN.exe`, `Image Downloader.exe`, `Settings.exe`) as malicious, please read our detailed explanation and instructions on how to whitelist the application [here](ANTIVIRUS_ALERTS.md). These are likely false positives due to how the application is packaged and operates.
 
 Enjoy your new Rich Presence!
 
