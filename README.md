@@ -15,13 +15,11 @@ This application enhances your Discord experience by updating your Discord statu
 * **Built-in Image Downloader:** Download game images directly via the application for your Rich Presence assets.
 
 ---
-
-## ⚠️ Important: Antivirus Alerts & False Positives
-
-When you run `Discord GFN.exe`, your antivirus software (like Windows Defender) may flag it as potentially malicious. **Please be assured: This is a FALSE POSITIVE.** The application is safe to use.
-
-For a detailed explanation of why these alerts occur and **how to allow the application in your antivirus**, please refer to the guide:
-[Antivirus Alerts Troubleshooting Guide](ANTIVIRUS_ALERTS.md)
+> [!IMPORTANT]
+> When you run `Discord GFN.exe`, your antivirus software (like Windows Defender) may flag it as potentially malicious. **Please be assured: This is a FALSE POSITIVE.** The application is safe to use.
+>
+> For a detailed explanation of why these alerts occur and **how to allow the application in your antivirus**, please refer to the guide:
+> [Antivirus Alerts Troubleshooting Guide](ANTIVIRUS_ALERTS.md)
 
 ---
 
