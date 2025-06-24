@@ -40,7 +40,7 @@ This application enhances your Discord experience by updating your status with t
 <table>
   <tr>
     <td align="center"><b>Discord Profile View</b></td>
-    <td align="center"><b>Detailed View</b></td>
+    <td align="center"><b>Discord Profile View</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/3b04ce49-5453-45b5-a092-c3da90ef9396" alt="Discord Profile Screenshot"></td>
