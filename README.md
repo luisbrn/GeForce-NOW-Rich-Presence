@@ -1,4 +1,4 @@
-# <img src="assets/DGFN.png" alt="DGFN Icon" width="32" style="vertical-align:middle; margin-right:8px;"/> Discord GFN Rich Presence
+# ![DGFN](https://github.com/user-attachments/assets/0eaf804f-7fc3-42cc-a34d-c3bf6a473589) Discord GFN Rich Presence
 
 <div align="center">
 
@@ -18,9 +18,12 @@
 
 <div align="center">
 
-### **Professional Discord Status with Game Details**
+### **Discord Status with Game Details**
 
-![Example Rich Presence](assets/example_cyberpunk.png)
+![Captura de pantalla 2025-07-01 233904](https://github.com/user-attachments/assets/25885838-ce5e-49a7-b589-a5d4a3f3ba63)
+![Captura de pantalla 2025-06-14 213105](https://github.com/user-attachments/assets/0040c9c9-0513-40e7-bc51-5fcaaf0ea11a)
+
+
 
 **Your friends will see exactly what you're playing on GeForce NOW - with stunning game artwork!**
 
